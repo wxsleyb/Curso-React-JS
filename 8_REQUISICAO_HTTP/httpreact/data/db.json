@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "name": "Tênis",
+      "price": "250",
+      "id": 4
+    },
+    {
+      "name": "Óculos",
+      "price": "20",
+      "id": 7
+    },
+    {
+      "name": "Teclado",
+      "price": "110",
+      "id": 8
+    },
+    {
+      "name": "Mouse",
+      "price": "50",
+      "id": 10
+    },
+    {
+      "name": "Headset",
+      "price": "120",
+      "id": 11
+    },
+    {
+      "name": "webcam",
+      "price": "280",
+      "id": 12
+    },
+    {
+      "name": "cabo vga",
+      "price": "15",
+      "id": 21
+    },
+    {
+      "name": "microfone",
+      "price": "45",
+      "id": 22
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 23
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 24
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 25
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 26
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 27
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 28
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 29
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 30
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 31
+    },
+    {
+      "name": "pendrive 8gb",
+      "price": "15",
+      "id": 32
+    }
+  ]
+}
